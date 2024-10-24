@@ -3,7 +3,7 @@
  * Plugin Name: WP Category Checkbox to Radio Button
  * Plugin URI: https://www.codingbank.com/wp-category-checkbox-radio
  * Description: Converts WordPress category checkboxes into radio buttons for post types. Now fully compatible with Gutenberg and Classic Editor.
- * Version: 1.2
+ * Version: 1.2.0
  * Requires at least: 5.0
  * Tested up to: 6.6.2
  * Requires PHP: 7.4 
