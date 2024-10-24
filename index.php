@@ -6,8 +6,7 @@
  * Version: 1.2
  * Requires at least: 5.0
  * Tested up to: 6.6.2
- * Requires PHP: 7.4
- * Stable tag: 1.2
+ * Requires PHP: 7.4 
  * Author: Md Abul Bashar
  * Author URI: https://www.codingbank.com
  * License: GPLv2 or later

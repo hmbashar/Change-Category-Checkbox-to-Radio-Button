@@ -5,8 +5,11 @@ Tags: Change WP Taxonomy Type, Change Category type, Category type change, Chang
 Requires at least: 5.0
 Tested up to: 6.6.2
 Requires PHP: 7.4
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+If you need to restrict your WordPress posts to select only one category.
 
 == Description ==
 If you need to restrict your WordPress posts to select only one category, this plugin automatically changes the category/taxonomy checkboxes to radio buttons in the post editor. This simplifies category selection for users who only want to assign one category to a post.
